@@ -1,4 +1,4 @@
-==================================================================================================
+============================================================================================
 
 LICENSE (TEMPLATE):
 
@@ -27,7 +27,7 @@ somewhere else.
 
 If you have any questions about the License, feel free to contact us.
 
------------------------------------------------------------------------------------------------------
+============================================================================================
 
 REMOVING THE ATTRIBUTION LINK:
 
@@ -43,7 +43,7 @@ and click the pay button on the page.
 If possible, kindly send us the site's url where the template is being used.
 Also, keep your Paypal receipt as proof of payment and your good to go.
 
-------------------------------------------------------------------------------------------------------
+============================================================================================
 
 SOURCES AND CREDITS:
 
@@ -66,11 +66,11 @@ JavaScript Libraries:
  - Basic Lightbox (https://basiclightbox.electerious.com/)
  - MailtoUI (https://mailtoui.com/)
 
--------------------------------------------------------------------------------------------------------
+============================================================================================
 
 COPYRIGHT:
 
 © 2025 Nomar Rodriguez. Site content (text and non-third-party images) © their respective owner(s).
 Template © Styleshout. Third-party assets above remain under their respective licenses.
 
-==================================================================================================
+============================================================================================
