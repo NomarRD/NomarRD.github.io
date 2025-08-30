@@ -14,7 +14,7 @@ A clean, responsive personal portfolio and resume site built on the CEEVEE templ
 
 OVERVIEW:
 
-- Sections: About • Resume • Projects • Contact
+- Sections: About • Resume • Education • Contact
 - Tech: HTML • CSS • JavaScript
 - Hosting: GitHub Pages
 
@@ -36,4 +36,5 @@ CREDITS & LICENSES (SUMMARY):
 - Full license and third-party notices: see `docs/ATTRIBUTION.md`.
 
 ==================================================================================================
+
 
